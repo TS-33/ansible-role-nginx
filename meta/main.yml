@@ -4,6 +4,6 @@ galaxy_info:
   company: cuit
   license: license (GPL-2.0-or-later, MIT, etc)
   min_ansible_version: 2.12
-  platform: ['rhel','centos']
+  platform: ['rhel']
   galaxy_tags: []
 dependencies: []
